@@ -1,7 +1,7 @@
 # MOVIE-STORE
 
 ## Equipe
-- Adon Matheus Santos Brito
+- Adson Matheus Santos Brito
 - Allan Gabriel Almeida Oliveira
 - Edinalda Cristina Alves De Medeiros
 - Joan de Azevedo Medeiros
